@@ -30,4 +30,10 @@ div {
   border-top-color: #06f;
 }
 
-       Green: #00bc3f; Blue: #06f; Indigo: #8a2be2; Violet: #d300c9
+#indigo {
+  border-top-color: #8a2be2;
+}
+
+#violet {
+  border-top-color: #d300c9;
+}
